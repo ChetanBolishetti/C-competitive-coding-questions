@@ -1,0 +1,1 @@
+{"name":"Local: MaxWordLen","url":"c:\\Chetan\\C++ Pms\\MaxWordLen.cpp","tests":[{"id":1612286742334,"input":"10\ndo or dye","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Chetan\\C++ Pms\\MaxWordLen.cpp","group":"local","local":true}
